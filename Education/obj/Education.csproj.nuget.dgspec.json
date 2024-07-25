@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Education\\EducationIM\\Education\\Education.csproj": {}
+    "C:\\2\\Education\\Education.csproj": {}
   },
   "projects": {
-    "C:\\Education\\EducationIM\\Education\\Education.csproj": {
+    "C:\\2\\Education\\Education.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Education\\EducationIM\\Education\\Education.csproj",
+        "projectUniqueName": "C:\\2\\Education\\Education.csproj",
         "projectName": "Education",
-        "projectPath": "C:\\Education\\EducationIM\\Education\\Education.csproj",
+        "projectPath": "C:\\2\\Education\\Education.csproj",
         "packagesPath": "C:\\Users\\a.yakovchik\\.nuget\\packages\\",
-        "outputPath": "C:\\Education\\EducationIM\\Education\\obj\\",
+        "outputPath": "C:\\2\\Education\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a.yakovchik\\AppData\\Roaming\\NuGet\\NuGet.Config",
